@@ -13,3 +13,7 @@ El empaquetado DFN de 2 x 2 x 0,75 mm. Permite aplicaciones incluso en el espaci
 | Tiempo de respuesta | 8 seg |
 | Certificado de calibración | Calibración de fábrica |
 
+| Temperatura | |  
+|-----------|-----------|
+| precisión de temperatura    | 0.2	°C | 
+| Tiempo de respuesta     | 5 seg | 
